@@ -1,0 +1,36 @@
+body{
+    background-image: url(food.jpg);
+    background-repeat: no-repeat;
+    background-size: 1400px 700px;
+}
+form{
+    border: solid px;
+    width: 310px;
+    background-color: (rgba(red, green, blue, alpha));
+    padding-left: 110px;
+    padding-right: 110px;
+    margin-left: 270px;
+    margin-right: 30;
+    margin-top: 70px;
+}
+h1{
+    font-size: 40px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+label{
+    font-size: 22px;
+    font-weight: bold;color: rgb(163, 206, 209);
+}
+input{
+    height: 19px;
+    width: 210px;
+    margin-bottom: 5px;
+}
+button{
+    height: 40;
+    width: 130px;
+    background-color: antiquewhite;
+    font-size: 22px;
+    color: wheat;
+}

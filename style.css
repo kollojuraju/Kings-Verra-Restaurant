@@ -1,0 +1,40 @@
+#box{
+    border: solid 1px;
+    height: 550px;
+    background-image: url(food.jpg);
+    background-repeat: no-repeat;
+    background-size:1350px 700px;
+}
+#Verra{
+    text-align:center;
+    padding-top: 160px;
+    font-size: 45px;
+    color: rgb(255, 255, 255);
+}
+#register{
+    margin-left: 460px;
+}
+#register,#login{
+    height: 35px;
+    width: 120px;
+    background-color: rgb(88, 209, 209);
+    font-size: 17px;
+    padding-bottom: 1;
+}
+#register a{
+    color: white;
+    font-weight: gold;
+    text-decoration: bold;
+    text-decoration: none;
+}
+#login a{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
+#register:hover{
+    background-color: orange;
+}
+#login:hover{
+    background-color: orchid;
+}

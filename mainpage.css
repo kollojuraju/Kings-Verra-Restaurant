@@ -1,0 +1,64 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#obox{
+    border: solid 1px;
+    height: 630px;
+    background-image: url(main2.jpg);
+    background-repeat: no-repeat;
+    background-size: 1400px;
+}
+#navbox{
+    border: solid 2px white;
+    height: 50px;
+}
+ul li{
+   border: solid 1px white;
+    height: 50px;
+    width: 160px;
+    float: left;
+    background-color: rgb(209, 229, 247);
+    border-radius: 15px;
+    text-align: center;
+    line-height: 50px;
+}
+ul{
+    list-style: none;
+}
+ul li a{
+    color: red;
+    font-size: 26px;
+    text-decoration: none;
+    font-weight: bold;
+}
+ul li:hover{
+    background-color: rgb(202, 154, 65);
+}
+#out{
+    border: solid 0px white;
+    height: 460px;
+}
+#Scrooltext{
+    color: rgb(90, 162, 224);
+    font-size: 36px;
+
+}
+#Welcome{
+    color: rgba(185, 236, 221, 0.836);
+    text-align: center;
+    text-shadow: 1px 1px 2px rgb(221, 148, 13);
+    font-size: 50px;
+}
+.menubox{
+    border: solid 1px;
+    height: 200px;
+    display: flex;
+    justify-content: space-between;
+}
+#menu{
+    border: solid 1px;
+    width: 200px;
+    height: 230px;
+    text-align: center;
+}
